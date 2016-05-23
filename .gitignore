@@ -1,0 +1,16 @@
+*.user
+*~
+*.swp
+*.sdf
+*.opensdf
+*.suo
+.generated
+obj/
+bin/
+Debug/
+Release/
+ipch/
+packages/
+nuget.exe
+__pycache__
+.idea
