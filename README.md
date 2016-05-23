@@ -8,7 +8,7 @@ Find enclosing quad of the chess board
 
 ### How-to run
 There's two scripts in the root
-* chessboard.py -- see help string, i.e. `python chessboard.py --help`
+* chessboard.py -- showcases boad detection algorithm, see help string, i.e. `python chessboard.py --help`
 * batch_run.py -- runs chessboard.py for every png picture in `data` folder, press any key to progress through
 
 ![sample](https://github.com/aash/opencv_chessboard/blob/master/sample.gif)
