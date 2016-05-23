@@ -11,6 +11,5 @@ There's two scripts in the root
 * chessboard.py -- see help string, i.e. `python chessboard.py --help`
 * batch_run.py -- runs chessboard.py for every png picture in `data` folder, press any key to progress through
 
-[[https://github.com/aash/opencv_chessboard/blob/master/sample.gif|alt=sample1]]
-
-[[https://github.com/aash/opencv_chessboard/blob/master/sample1.gif|alt=sample2]]
+![sample](https://github.com/aash/opencv_chessboard/blob/master/sample.gif)
+![sample1](https://github.com/aash/opencv_chessboard/blob/master/sample1.gif)
